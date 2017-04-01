@@ -1,0 +1,15 @@
+D:\Work Data_Synced\Designs\CRC8 Tests\CRC8Tests\CRC8Tests\bin\Debug\CRC8Tests.exe
+D:\Work Data_Synced\Designs\CRC8 Tests\CRC8Tests\CRC8Tests\bin\Debug\CRC8Tests.pdb
+D:\Work Data_Synced\Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Work Data_Synced\Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Work Data_Synced\Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\CRC8Tests.csproj.GenerateResource.Cache
+D:\Work Data_Synced\Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\CRC8Tests.exe
+D:\Work Data_Synced\Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\CRC8Tests.pdb
+D:\Work Data_Synced\Software Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\CRC8Tests.exe
+D:\Work Data_Synced\Software Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\CRC8Tests.pdb
+D:\Work Data_Synced\Software Designs\CRC8 Tests\CRC8Tests\CRC8Tests\bin\Debug\CRC8Tests.exe
+D:\Work Data_Synced\Software Designs\CRC8 Tests\CRC8Tests\CRC8Tests\bin\Debug\CRC8Tests.pdb
+D:\Work Data_Synced\Software Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Work Data_Synced\Software Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Work Data_Synced\Software Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\CRC8Tests.csproj.GenerateResource.Cache
+D:\Work Data_Synced\Software Designs\CRC8 Tests\CRC8Tests\CRC8Tests\obj\x86\Debug\CRC8Tests.csprojResolveAssemblyReference.cache
